@@ -5,7 +5,6 @@ import java.util.List;
 
 public class EmployeeDAOImpl implements EmployeeDAO {
     public EmployeeDAOImpl() {
-
     }
 
     @Override
